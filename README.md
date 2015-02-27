@@ -5,7 +5,10 @@ A.Blok
 
 Lev Tolstoy
 1. WarAndPeace
+2. Detstvo
+3. AnnaKarenina
 
-1. Whitestone.txt
-2. DinDon.txt
-3. Minute.txt
+Annenskiy
+1. Whitestone
+2. DinDon
+3. Minute
