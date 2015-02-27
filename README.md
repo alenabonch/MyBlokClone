@@ -5,3 +5,7 @@ A.Blok
 
 Lev Tolstoy
 1. WarAndPeace
+
+1. Whitestone.txt
+2. DinDon.txt
+3. Minute.txt
