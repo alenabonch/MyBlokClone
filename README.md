@@ -1,4 +1,4 @@
 A.Blok
-1. Golos v tuchah
+1. Angel-hranitel
 2. Potemneli, poblekli zaly
-3. Angel-hranitel
+3. Golos v tuchah
